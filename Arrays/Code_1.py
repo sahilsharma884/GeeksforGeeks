@@ -1,6 +1,7 @@
 # Missing number in array
 
 # Number of test case
+T = int(input())
 for t in range(T):
     # Number of elements in an array
     N = int(input())
