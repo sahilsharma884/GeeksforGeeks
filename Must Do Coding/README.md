@@ -10,3 +10,10 @@
 <li>if currsum becomes equals to S, then print the starting and last index</li>
 <li>if the currsum never maches to S, then print -1</li>
 </ul>
+
+```Array_02.py```: Missing number in array (Ref: https://practice.geeksforgeeks.org/problems/missing-number-in-array/0) <br>
+<ul>
+<li>Sum of 'n' natural numbers from 1 to n.</li>
+<li>Step2: compute the sum of elements of array</li>
+<li>Step3: subtract the elements sum from natural numbers sum i.e. n*(n+1)/2 - (sum of array elements). Thus the resultant value will be our required missing number.</li>
+</ul>
