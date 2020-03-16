@@ -1,1 +1,2 @@
-Code_1: Sum of array elements (Ref: https://practice.geeksforgeeks.org/problems/sum-of-array-elements/0)
+`Code_1.py`: Sum of array elements (Ref: https://practice.geeksforgeeks.org/problems/sum-of-array-elements/0)
+`Code_2.py`: Reverse an Array (Ref: https://practice.geeksforgeeks.org/problems/reverse-an-array/0/)
