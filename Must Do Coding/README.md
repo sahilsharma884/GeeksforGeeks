@@ -20,7 +20,9 @@
 
 ```String_01.py```: Reverse words in a given string (Ref: https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) <br>
 <ul>
-<li>first reverse the individual words, we get the below string. <br>
-  "i ekil siht margorp yrev hcum" </li>
-<li>next reverse the whole string from start to end and you get the desired output. <br>
-  "much very program this like i" </li>
+<li>first create list of string separate by ' . ' <br>
+  ["i", "like", "this", "program", "very", "much"] </li>
+<li>Iterate over last to second list only followed by ' . ' <br>
+  much.very.program.this.like </li>
+<li>Append the first list of string without followed by ' . ' and display output<br>
+  much.very.program.this.like.i </li>
