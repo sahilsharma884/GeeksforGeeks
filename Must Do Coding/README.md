@@ -17,3 +17,10 @@
 <li>Compute the sum of elements of array</li>
 <li>Subtract the elements sum from natural numbers sum i.e. n*(n+1)/2 - (sum of array elements). Thus the resultant value will be our required missing number.</li>
 </ul>
+
+```String_01.py```: Reverse words in a given string (Ref: https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) <br>
+<ul>
+<li>first reverse the individual words, we get the below string. <br>
+  "i ekil siht margorp yrev hcum" </li>
+<li>next reverse the whole string from start to end and you get the desired output. <br>
+  "much very program this like i" </li>
